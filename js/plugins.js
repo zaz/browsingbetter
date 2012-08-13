@@ -1,0 +1,7 @@
+// @codekit-append "bootstrap-transition.js"
+// @codekit-append "bootstrap-modal.js"
+// @codekit-append "bootstrap-scrollspy.js"
+// @codekit-append "bootstrap-tooltip.js"
+// @codekit-append "bootstrap-popover.js"
+// @codekit-append "bootstrap-collapse.js"
+// @codekit-append "bootstrap-carousel.js"
