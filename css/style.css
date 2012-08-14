@@ -5871,10 +5871,3 @@ form.well {
 .invisible {
   visibility: hidden;
 }
-.connect_widget_button_count_count {
-  font-size: 13px;
-  padding: 7px 6px 5px 6px;
-}
-.button_count a.connect_widget_like_button {
-  padding: 6px 13px;
-}
