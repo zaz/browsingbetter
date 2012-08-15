@@ -3,75 +3,30 @@
 
 
 /* TEAM */
-  Aaron Forsander
-  Twitter: @aaronforsander
-  Location: United States of America
-
-  Addy Osmani
-  Twitter: @addyosmani
-  Location: United Kingdom
-
-  Connor Montgomery
-  Twitter: @c_t_montgomery
-  Location: United States of Americana
-
-  Divya Manian
-  Twitter: @divya
-  Location: United States of America
-
-  Mat Marquis
-  Twitter: @wilto
-  Location: United States of America
-
-  Mathias Bynens
-  Twitter: @mathias
-  Location: Belgium
-
-  Nicolas Gallagher
-  Twitter: @necolas
-  Location: United Kingdom
-
-  Paul Irish
-  Twitter: @paul_irish
-  Location: United States of America
-
-
-/* THANKS */
-  Alexis Deveria
-  Daniel Filho
-  Dain Kennison
   Ryan Olson
+  Twitter: @ryanolson
+  Location: USA
 
-  More here: https://github.com/h5bp/movethewebforward/contributors
+  
+/* THANKS */
+	Josh Cagwin
 
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
+  Components: Bootstrap, jQuery
   Software:
 
 
 
-                               -o/-
-                               +oo//-
-                              :ooo+//:
-                             -ooooo///-
-                             /oooooo//:
-                            :ooooooo+//-
-                           -+oooooooo///-
-           -://////////////+oooooooooo++////////////::
-            :+ooooooooooooooooooooooooooooooooooooo+:::-
-              -/+ooooooooooooooooooooooooooooooo+/::////:-
-                -:+oooooooooooooooooooooooooooo/::///////:-
-                  --/+ooooooooooooooooooooo+::://////:-
-                     -:+ooooooooooooooooo+:://////:--
-                       /ooooooooooooooooo+//////:-
-                      -ooooooooooooooooooo////-
-                      /ooooooooo+oooooooooo//:
-                     :ooooooo+/::/+oooooooo+//-
-                    -oooooo/::///////+oooooo///-
-                    /ooo+::://////:---:/+oooo//:
-                   -o+/::///////:-      -:/+o+//-
-                   :-:///////:-            -:/://
-                     -////:-                 --//:
-                       --                       -:
+
+	
+	__/\\\__________/\\\________        
+	 _\/\\\_________\/\\\________       
+	  _\/\\\_________\/\\\________      
+	   _\/\\\_________\/\\\________     
+	    _\/\\\\\\\\\___\/\\\\\\\\\__    
+	     _\/\\\////\\\__\/\\\////\\\_   
+	      _\/\\\__\/\\\__\/\\\__\/\\\_  
+	       _\/\\\\\\\\\___\/\\\\\\\\\__ 
+	        _\/////////____\/////////___
